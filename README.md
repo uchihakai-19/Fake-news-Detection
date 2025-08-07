@@ -145,20 +145,4 @@ determine which method yields better results.
 Also, maybe a new model with fuzzy logic can be applied to certain aspects of fake news detection, not classification, but mostly for measuring the degree
 of uncertainty or ambiguity in a tweet or a news article, as a tweet or an article can be semi-accurate [13].
 
-## References
-1. Asghar, M.Z., Habib, A., Habib, A., Khan, A., Ali, R., Khattak, A.: Exploring deep neural networks for rumor detection. Journal of Ambient Intelligence and Humanized Computing 12, 4315–4333 (2021)
-2. De Beer, D., Matthee, M.: Approaches to identify fake news: a systematic literature review. Integrated Science in Digital Age 2020 pp. 13–22 (2021)
-3. Faustini, P.H.A., Covoes, T.F.: Fake news detection in multiple platforms and languages. Expert Systems with Applications 158, 113503 (2020)
-4. Girgis, S., Amer, E., Gadallah, M.: Deep learning algorithms for detecting fake news in online text. In: 2018 13th international conference on computer engineering and systems (ICCES). pp. 93–97. IEEE (2018)
-5. Jadhav, S.S., Thepade, S.D.: Fake news identification and classification using dssm and improved recurrent neural network classifier. Applied Artificial Intelligence 33(12), 1058–1068 (2019)
-6. Jose, X., Kumar, S.M., Chandran, P.: Characterization, classification and detection of fake news in online social media networks. In: 2021 IEEE Mysore Sub Section International Conference (MysuruCon). pp. 759–765. IEEE (2021)
-7. Kaliyar, R.K., Goswami, A., Narang, P.: Deepfake: improving fake news detection using tensor decomposition-based deep neural network. The Journal of Supercomputing 77, 1015–1037 (2021)
-8. Karimi, H., Tang, J.: Learning hierarchical discourse-level structure for fake news detection. arXiv preprint arXiv:1903.07389 (2019)
-9. Liu, Y., Wu, Y.F.B.: Fned: a deep network for fake news early detection on social media. ACM Transactions on Information Systems (TOIS) 38(3), 1–33 (2020)
-10. Pavleska, T., Skolkay, A., Zankova, B., Ribeiro, N., Bechmann, A.: Performance ˇ analysis of fact-checking organizations and initiatives in europe: a critical overview of online platforms fighting fake news. Social media and convergence 29, 1–28 (2018)
-11. Rajalaxmi, R., Narasimha Prasad, L., Janakiramaiah, B., Pavankumar, C., Neelima, N., Sathishkumar, V.: Optimizing hyperparameters and performance analysis of lstm model in detecting fake news on social media. Transactions on Asian and Low-Resource Language Information Processing (2022)
-12. Reis, J.C., Correia, A., Murai, F., Veloso, A., Benevenuto, F.: Supervised learning for fake news detection. IEEE Intelligent Systems 34(2), 76–81 (2019)
-13. Satpathy, S., Prakash, M., Debbarma, S., Sengupta, A.S., Bhattacaryya, B.K.: Design a fpga, fuzzy based, insolent method for prediction of multi-diseases in rural area. Journal of Intelligent & Fuzzy Systems 37(5), 7039–7046 (2019)
-14. Vereshchaka, A., Cosimini, S., Dong, W.: Analyzing and distinguishing fake and real news to mitigate the problem of disinformation. Computational and Mathematical Organization Theory 26, 350–364 (2020)
-15. Vicario, M.D., Quattrociocchi, W., Scala, A., Zollo, F.: Polarization and fake news: Early warning of potential misinformation targets. ACM Transactions on the Web (TWEB) 13(2), 1–22 (2019)
-16. Zhao, X., Yu, H., Li, S., Zhang, J.: A review of the research on the influencing factors of internet user information dissemination. In: 2022 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI). pp. 1311–1317. IEEE (2022)
+
